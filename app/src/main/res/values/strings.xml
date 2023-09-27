@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pesel generator</string>
+    <string-array name="plec">
+        <item>mężczyzna</item>
+        <item>kobieta</item>
+    </string-array>
+</resources>
